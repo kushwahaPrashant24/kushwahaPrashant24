@@ -1,3 +1,5 @@
+![Banner image](https://media.licdn.com/dms/image/D5616AQH7ijQy-s_IGg/profile-displaybackgroundimage-shrink_350_1400/0/1678175342242?e=1703116800&v=beta&t=XO66XambMBRerXI_e6YnN84V2Zb6tfPmrbrLFe8SjT4)
+<h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
 # Hi there 👋, My name is PRASHANT KUSHWAHA
 
 ## 💫 Liitle Bit More About Me

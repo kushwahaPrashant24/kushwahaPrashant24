@@ -30,7 +30,7 @@
 
 ## 🏆 GitHub Trophies
 
-<p><img src="https://github-profile-trophy.vercel.app/?username=kushwahaPrashant24">
+<p><img src="https://github-profile-trophy.vercel.app/?username=kushwahaPrashant24&theme=react">
 </p>
 
 ## 📊 Github Status
@@ -39,10 +39,10 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=kushwahaPrashant24&&theme=react&show_icons=true"><p>
 
-<p><img src="https://metrics.lecoq.io/kushwahaPrashant24"><p>
+<p><img src="https://metrics.lecoq.io/kushwahaPrashant24&theme=react"><p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=kushwahaPrashant24"><p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=kushwahaPrashant24&theme=react"><p>
 
-<p><img src="https://visitcount.itsvg.in/api?id=kushwahaPrashant24&label=Profile%20Views&color=12&icon=5&pretty=true"><p>
+<p><img src="https://visitcount.itsvg.in/api?id=kushwahaPrashant24&label=Profile%20Views&color=12&icon=5&pretty=true&theme=react"><p>
 
 

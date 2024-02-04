@@ -44,3 +44,7 @@
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=kushwahaPrashant24"><p>
 
 <p><img src="https://visitcount.itsvg.in/api?id=kushwahaPrashant24&label=Profile%20Views&color=12&icon=5&pretty=true"><p>
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C067%20hrs%206%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.4%20Thousand%20lines%20of%20code-blue)
+

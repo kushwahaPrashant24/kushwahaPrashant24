@@ -30,7 +30,7 @@
 
 ## 🏆 GitHub Trophies
 
-<p><img src="https://github-profile-trophy.vercel.app/?username=kushwahaPrashant24&theme=react">
+<p><img src="https://github-profile-trophy.vercel.app/?username=kushwahaPrashant24&&theme=onedar">
 </p>
 
 ## 📊 Github Status

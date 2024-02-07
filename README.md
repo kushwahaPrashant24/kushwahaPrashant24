@@ -34,7 +34,7 @@
 </p>
 
 ## 📊 Github Status
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitkr0408&show_icons=true&&theme=react&hidelocale=en&layout=compact" alt="prashant24" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kushwahaPrashant24&show_icons=true&&theme=react&hidelocale=en&layout=compact" alt="prashant24" /></p>
 
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=kushwahaPrashant24&&theme=react&show_icons=true"><p>

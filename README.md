@@ -5,6 +5,10 @@
 # 💫 Liitle Bit More About Me
 <p>💬 Ask me about Front-End Development</p>
 
+<div id="header">
+  <img src="https://media.giphy.com/media/j5hWF2V3RlNGItTkGc/giphy.gif" width="250"/>
+ </div>
+
 ## 💻 Skills
 <p>
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" style="margin-bottom: 4px;" height="30px">
@@ -31,13 +35,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kushwahaPrashant24&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
-<div id="header">
-  <img src="https://media.giphy.com/media/j5hWF2V3RlNGItTkGc/giphy.gif" width="250"/>
- </div>
+
  
 
-<p><img src="https://github-profile-trophy.vercel.app/?username=kushwahaPrashant24&&theme=onedar">
-</p>
+
 
 ## 📊 Github Status
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kushwahaPrashant24&show_icons=true&&theme=react&hidelocale=en&layout=compact" alt="prashant24" /></p>

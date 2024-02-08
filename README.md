@@ -1,13 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm PRASHANT KUSHWAHA</h1>
 
-<h1 align="center">A Emerging Programmer in upcoming years.</h1>
+<h1 align="center">A Emerging Programmer in upcoming years.</h1>\\
+<div id="header">
+ <center> <img src="https://media.giphy.com/media/j5hWF2V3RlNGItTkGc/giphy.gif" width="250"/></center>
+ </div>
 # 💫 Liitle Bit More About Me
 <p>💬 Ask me about Front-End Development</p>
 
-<div id="header">
-  <img src="https://media.giphy.com/media/j5hWF2V3RlNGItTkGc/giphy.gif" width="250"/>
- </div>
+
 
 ## 💻 Skills
 <p>

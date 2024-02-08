@@ -29,6 +29,12 @@
 </p>
 
 ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kushwahaPrashant24&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
+
+<div id="header">
+  <img src="https://media.giphy.com/media/j5hWF2V3RlNGItTkGc/giphy.gif" width="250"/>
+ </div>
+ 
 
 <p><img src="https://github-profile-trophy.vercel.app/?username=kushwahaPrashant24&&theme=onedar">
 </p>

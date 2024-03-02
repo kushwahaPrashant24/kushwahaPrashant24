@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm PRASHANT KUSHWAHA</h1>
 
-<h1 align="center">A Emerging Programmer in upcoming years.</h1>\\
+<h1 align="center">A Emerging Programmer in upcoming years.</h1>
 
 # 💫 Liitle Bit More About Me
 <p>💬 Ask me about Front-End Development</p>

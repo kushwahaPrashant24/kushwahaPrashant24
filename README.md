@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Prashant Kushwaha</h1>
-<h2 align="center">An Emerging Programmer</h2>
+<h1 >Hi 👋, I'm Prashant Kushwaha</h1>
+<h2 >An Emerging Developer</h2>
 
-<p align="center">💬 Feel free to ask me about Front-End Development</p>
+<p >💬 Feel free to ask me about Front-End Development</p>
 
 ## 💫 A Little Bit More About Me
 I'm passionate about web development, especially front-end technologies. I'm currently an intern at Editquasser and a 2nd-year student at AKGEC. I'm enthusiastic about contributing to open-source projects and constantly learning new technologies to enhance my skills.
 
 ## 💻 Skills
-<p align="center">
+<p>
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="30px">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="30px">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="30px">
@@ -23,25 +23,25 @@ I'm passionate about web development, especially front-end technologies. I'm cur
 </p>
 
 ## 👥 Connect With Me
-<p align="center">
+<p >
     <a href="https://linkedin.com/in/prashant-kushwaha-0807a1255" target="_blank">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30px">
     </a>
 </p>
 
 ## 🌟 GitHub Badges
-<p align="center">
+<p>
     <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" height="24px">
     <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" height="24px">
 </p>
 
 ## 🏆 GitHub Trophies
-<p align="center">
+<p>
     <img src="https://github-profile-trophy.vercel.app/?username=kushwahaPrashant24&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
 </p>
 
 ## 📊 GitHub Status
-<p align="center">
+<p >
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kushwahaPrashant24&show_icons=true&theme=react&layout=compact" alt="Top Languages">
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=kushwahaPrashant24&theme=react&show_icons=true" alt="GitHub Stats">

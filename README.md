@@ -4,7 +4,7 @@
 <p >💬 Feel free to ask me about Front-End Development</p>
 
 ## 💫 A Little Bit More About Me
-I'm passionate about web development, especially front-end technologies. I'm currently an intern at Editquasser and a 2nd-year student at AKGEC. I'm enthusiastic about contributing to open-source projects and constantly learning new technologies to enhance my skills.
+I'm passionate about web development, especially front-end technologies. I'm currently an intern at Editquasser and a 3nd-year student at AKGEC. I'm enthusiastic about contributing to open-source projects and constantly learning new technologies to enhance my skills.
 
 ## 💻 Skills
 <p>

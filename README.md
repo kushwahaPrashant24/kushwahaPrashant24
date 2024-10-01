@@ -33,7 +33,7 @@ I'm passionate about web development, especially front-end technologies. I'm cur
 <p>
     <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" height="24px">
     <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" height="24px">
-     <img src="[https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif](https://www.holopin.io/hacktoberfest2024/userbadge/cm1qg6tzj02620cjyysfgucbm?balloons=true)" height="24px">
+     <img src="https://www.holopin.io/hacktoberfest2024/userbadge/cm1qg6tzj02620cjyysfgucbm?balloons=true" height="24px">
 </p>
 
 ## 🏆 GitHub Trophies

@@ -6,8 +6,11 @@ I’m Prashant Kushwaha, a passionate Full-Stack Developer from Prayagraj, Uttar
 <br/>
 
 💼 Previously worked as a Full-Stack Developer at EditQuaser and Insiden, contributing to scalable and responsive web applications and improving user experience.
+<br/>
 🚀 Active contributor to open-source projects, collaborating with institutions like IIT Kharagpur and IIT Patna.
+<br/>
 🎓 Currently a third-year student at AKGEC, applying knowledge to real-world projects while exploring the latest technologies.
+<br/>
 ⚡ Passionate about building modern, scalable applications and enhancing user experiences through effective front-end and back-end solutions.
 
 💻 Tech Stack

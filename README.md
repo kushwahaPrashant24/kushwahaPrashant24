@@ -1,11 +1,13 @@
 <h1>Hi 👋, I'm Prashant Kushwaha</h1>
-Full Stack Developer | Open Source Contributor | Lifelong Learner
-<h2>💬 Feel free to ask me about Full-Stack Development, Modern Web Technologies, or Open-Source Projects!</h2>
-
-<h2>💫 A Little Bit More About Me</h2>
-I'm a passionate Full-Stack Developer from Prayagraj, Uttar Pradesh, currently contributing to various impactful projects. I have experience working as a Full-Stack Developer at EditQuaser, where I lead the development of scalable and responsive web applications, and at Insiden, where I spearheaded feature enhancements to improve user experience and performance. I'm also an active contributor to open-source projects with prestigious institutions like IIT Kharagpur and IIT Patna.
-
-As a second-year student at AKGEC, I consistently apply my knowledge in real-world projects while staying up-to-date with the latest technologies. I'm passionate about building modern, scalable applications and enhancing user experiences through effective front-end and back-end solutions.
+**Full-Stack Developer | Open Source Contributor | Lifelong Learner**
+<h2>💬 Feel free to ask me about Full-Stack Development, Modern Web Technologies, or Open-Source Projects!</h2> 
+<h2>💫 A Little Bit More About Me</h2> 
+I’m Prashant Kushwaha, a passionate Full-Stack Developer from Prayagraj, Uttar Pradesh, currently working as a **Backend Developer at Doum**, where I focus on building robust and scalable backend systems using **TypeScript**.
+💻 About Me
+💼 Previously worked as a Full-Stack Developer at EditQuaser and Insiden, contributing to scalable and responsive web applications and improving user experience.
+🚀 Active contributor to open-source projects, collaborating with institutions like IIT Kharagpur and IIT Patna.
+🎓 Currently a third-year student at AKGEC, applying knowledge to real-world projects while exploring the latest technologies.
+⚡ Passionate about building modern, scalable applications and enhancing user experiences through effective front-end and back-end solutions.
 
 💻 Tech Stack
 <p align="center"> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="30px"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="30px"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="30px"> <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" height="30px"> <img src="https://img.shields.io/badge/tailwind-%23563D7C.svg?style=for-the-badge&logo=tailwind&logoColor=white" height="30px"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="30px"> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="30px"> <img src="https://img.shields.io/badge/node-%2320232a.svg?style=for-the-badge&logo=node&logoColor=%2361DAFB" height="30px"> <img src="https://img.shields.io/badge/express-%2320232a.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="30px"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="30px"> </p>

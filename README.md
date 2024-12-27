@@ -3,7 +3,8 @@
 <h2>💬 Feel free to ask me about Full-Stack Development, Modern Web Technologies, or Open-Source Projects!</h2> 
 <h2>💫 A Little Bit More About Me</h2> 
 I’m Prashant Kushwaha, a passionate Full-Stack Developer from Prayagraj, Uttar Pradesh, currently working as a **Backend Developer at Doum**, where I focus on building robust and scalable backend systems using **TypeScript**.
-💻 About Me
+<br/>
+
 💼 Previously worked as a Full-Stack Developer at EditQuaser and Insiden, contributing to scalable and responsive web applications and improving user experience.
 🚀 Active contributor to open-source projects, collaborating with institutions like IIT Kharagpur and IIT Patna.
 🎓 Currently a third-year student at AKGEC, applying knowledge to real-world projects while exploring the latest technologies.

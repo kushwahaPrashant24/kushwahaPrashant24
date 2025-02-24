@@ -40,9 +40,12 @@ I’m Prashant Kushwaha, a passionate Full-Stack Developer from Prayagraj, Uttar
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="30px"> 
 <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" height="30px"> 
 <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" height="30px">
+<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" height="30px">
+<img src="https://img.shields.io/badge/netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white" height="30px">
+<img src="https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" height="30px">
 </p>
 <p>
-I am proficient in React frameworks like Material-UI, Framer Motion, Styled Components, and ShadCN, adept at building modern and scalable front-end solutions. On the back-end, I have experience with Node.js, Express.js, and backend development using TypeScript, alongside database systems like PostgreSQL and MongoDB. I also specialize in building REST APIs for scalable applications.
+I am proficient in React frameworks like Material-UI, Framer Motion, Styled Components, and ShadCN, adept at building modern and scalable front-end solutions. On the back-end, I have experience with Node.js, Express.js, and backend development using TypeScript, alongside database systems like PostgreSQL and MongoDB. I specialize in building REST APIs for scalable applications and deploying them on Vercel, Netlify, and Firebase.
 </p>
 
 

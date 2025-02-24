@@ -21,7 +21,7 @@ I’m Prashant Kushwaha, a passionate Full-Stack Developer from Prayagraj, Uttar
 </p>
 
 <h2>💻 Tech Stack</h2>
-<p align="center">
+<p >
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="30px">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="30px">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="30px">
@@ -29,12 +29,12 @@ I’m Prashant Kushwaha, a passionate Full-Stack Developer from Prayagraj, Uttar
   <img src="https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" height="30px">
 </p>
 
-<p align="center">
+<p >
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="30px">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="30px">
 </p>
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="30px">
   <img src="https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" height="30px">
   <img src="https://img.shields.io/badge/framer%20motion-%23000000.svg?style=for-the-badge&logo=framer&logoColor=white" height="30px">
@@ -42,25 +42,25 @@ I’m Prashant Kushwaha, a passionate Full-Stack Developer from Prayagraj, Uttar
   <img src="https://img.shields.io/badge/shadcn-%23171717.svg?style=for-the-badge&logo=shadcn&logoColor=white" height="30px">
 </p>
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" height="30px">
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="30px">
   <img src="https://img.shields.io/badge/rest%20api-%23000000.svg?style=for-the-badge&logo=restapi&logoColor=white" height="30px">
 </p>
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" height="30px">
   <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" height="30px">
 </p>
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="30px">
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" height="30px">
   <img src="https://img.shields.io/badge/netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white" height="30px">
   <img src="https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" height="30px">
 </p>
 
-<p align="center">
+<p>
   I am proficient in React frameworks like Material-UI, Framer Motion, Styled Components, and ShadCN, adept at building modern and scalable front-end solutions.  
   On the back-end, I have experience with Node.js, Express.js, and backend development using TypeScript, alongside database systems like PostgreSQL and MongoDB.  
   I specialize in building REST APIs for scalable applications and deploying them on Vercel, Netlify, and Firebase.

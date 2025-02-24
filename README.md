@@ -32,16 +32,19 @@ I’m Prashant Kushwaha, a passionate Full-Stack Developer from Prayagraj, Uttar
 <img src="https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" height="30px"> 
 <img src="https://img.shields.io/badge/framer%20motion-%23000000.svg?style=for-the-badge&logo=framer&logoColor=white" height="30px"> 
 <img src="https://img.shields.io/badge/styled--components-%23DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white" height="30px"> 
+<img src="https://img.shields.io/badge/shadcn-%23171717.svg?style=for-the-badge&logo=shadcn&logoColor=white" height="30px">
 <img src="https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" height="30px"> 
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="30px"> 
+<img src="https://img.shields.io/badge/rest%20api-%23000000.svg?style=for-the-badge&logo=restapi&logoColor=white" height="30px">
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="30px"> 
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="30px"> 
 <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" height="30px"> 
 <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" height="30px">
 </p>
 <p>
-I am proficient in React frameworks like Material-UI, Framer Motion, and Styled Components, adept at building modern and scalable front-end solutions. On the back-end, I have experience with Node.js, Express.js, and backend development using TypeScript, alongside database systems like PostgreSQL and MongoDB.
+I am proficient in React frameworks like Material-UI, Framer Motion, Styled Components, and ShadCN, adept at building modern and scalable front-end solutions. On the back-end, I have experience with Node.js, Express.js, and backend development using TypeScript, alongside database systems like PostgreSQL and MongoDB. I also specialize in building REST APIs for scalable applications.
 </p>
+
 
 <p>
 I am proficient in React frameworks like Material-UI, Framer Motion, and Styled Components, adept at building modern and scalable front-end solutions. On the back-end, I have experience with Node.js, Express.js, and backend development using TypeScript, alongside database systems like PostgreSQL and MongoDB.

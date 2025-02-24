@@ -30,6 +30,7 @@ I’m Prashant Kushwaha, a passionate Full-Stack Developer from Prayagraj, Uttar
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="30px">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="30px">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="30px">
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" height="30px">
   <img src="https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" height="30px">
   <img src="https://img.shields.io/badge/framer%20motion-%23000000.svg?style=for-the-badge&logo=framer&logoColor=white" height="30px">
   <img src="https://img.shields.io/badge/styled--components-%23DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white" height="30px">
@@ -51,11 +52,6 @@ I’m Prashant Kushwaha, a passionate Full-Stack Developer from Prayagraj, Uttar
   I specialize in building REST APIs for scalable applications and deploying them on Vercel, Netlify, and Firebase.
 </p>
 
-
-
-<p>
-I am proficient in React frameworks like Material-UI, Framer Motion, and Styled Components, adept at building modern and scalable front-end solutions. On the back-end, I have experience with Node.js, Express.js, and backend development using TypeScript, alongside database systems like PostgreSQL and MongoDB.
-</p>
 
 <h2>🚀 Projects</h2>
 <p>
